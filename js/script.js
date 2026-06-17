@@ -57,3 +57,55 @@
 //let yearsOfExperience = 2
 //let hasExperience = false
 //console.log ('Orlando has ' + yearsOfExperience + ' years of javascript experience: ' + hasExperience)
+
+//STEP 8
+// Is the following string literal valid? If not, how would you fix it?
+
+//let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'
+//console.log(someString)
+// It is not correct, we just need to add a \ in the word I'm and write as I'\m. We use the backslas to denote the quote (') in I'm.
+
+//STEP 9 
+//Create a variable that produces a null value in the console window.
+//Then, create a variable that produces an undefined value in the console window.
+//let myNull = null;
+//console.log(myNull)
+//let undefinedValue;
+//console.log(undefined)
+
+//STEP10
+//Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+
+//let userIsLoggedIn = false 
+//console.log(!userIsLoggedIn)
+
+//let userAgeThisYear = 5
+//console.log('this year, the user age is ' + userAgeThisYear + ' and next year ' + ++userAgeThisYear + ' is going to be the user age')
+
+//let userName = 'Orlando'
+//console.log('The user name is ' + userName)
+
+//STEP 11
+//Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows:
+//Hello Zak Ruvalcaba, welcome to the JavaScript class!
+
+//let instructorName = 'Zak'
+//let instructorLastName = 'Ruvalcaba'
+//alert(' Hello ' + instructorName + instructorLastName + ', welcome to the Javascript class!')
+
+//STEP 12
+//Declare a variable called name and set it equal to your name.
+//Substitute your name in the previous alert string with the variable instead.
+//let instructorName = 'Orlando'
+//let InstructorLastName = 'Boquin'
+//alert(' Hello ' + instructorName + ' ' + InstructorLastName + ', welcome to the Javascript class!')
+
+//STEP 13
+//Declare a variable called course and set it equal to “JavaScript”.
+//Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
+//let course = 'Javascript'
+//let instructorName = 'Orlando'
+//let InstructorLastName = 'Boquin'
+//alert(' Hello ' + instructorName + ' ' + InstructorLastName + ', welcome to the ' + course + ' class!')
+
+//STEP 14
