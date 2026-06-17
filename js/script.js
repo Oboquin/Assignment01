@@ -109,3 +109,32 @@
 //alert(' Hello ' + instructorName + ' ' + InstructorLastName + ', welcome to the ' + course + ' class!')
 
 //STEP 14
+//Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
+
+//Hello Zak Ruvalcaba.
+//Welcome to the JavaScript class!
+
+//let course = 'Javascript'
+//let instructorName = 'Orlando'
+//let InstructorLastName = 'Boquin'
+//alert(' Hello ' + instructorName + ' ' + InstructorLastName + ', \n Welcome to the ' + course + ' class!')
+
+//STEP 15
+//Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
+//let course = 'Javascript'
+//let instructorName = prompt ('What is your name?');
+//let InstructorLastName = prompt ('and What is your Last Name?')
+//alert(' Hello ' + instructorName + ' ' + InstructorLastName + ', \n Welcome to the ' + course + ' class!')
+
+//STEP 16
+//Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
+//let course = prompt ('What class are you taking?');
+//let name = prompt ('What is your name?');
+//let lastName = prompt ('and What is your Last Name?')
+//alert(' Hello ' + name + ' ' + lastName + ', \n Welcome to the ' + course + ' class!')
+
+//STEP 17
+Declare a variable called x and assign it a value of 10.
+Declare a variable called y and assign it a value of 20.
+Display the sum of those two numbers in the console window.
+
