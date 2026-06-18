@@ -162,3 +162,5 @@
 //Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
 //Divide and assign 1 to that variable and display the result in the console window.
 //The result should be 2. If you got 6.66 try again.
+//let x = 20%3;
+//console.log(x);
